@@ -1,4 +1,4 @@
-=How to
+#How to
 git clone https://github.com/brantje/teampass-to-passman.git export
 then php export.php
 Wait abit, a json file is created, download it to your computer.
